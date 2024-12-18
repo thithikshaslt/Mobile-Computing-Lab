@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Worksheet1_ques1</string>
+    <string name="first_line">My Temperature Converter - Portrait Mode</string>
+    <string name="second_line">Enter Fahrenheit Temperature Below</string>
+
+    <string name="third_line">Enter Celsius Temp Below</string>
+    <string name="btn">Convert Temp</string>
+</resources>
